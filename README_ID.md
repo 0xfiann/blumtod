@@ -1,5 +1,11 @@
 # BlumTod
 
+cd blumtod
+python -m pip install -r requirements.txt
+python bot.py
+
+allow pasting
+
 AUTO CLAIM FOR BLUM / @blum
 
 # Daftar Isi
